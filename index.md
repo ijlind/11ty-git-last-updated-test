@@ -1,7 +1,9 @@
 ---
-date: git Last Modified
+dateGitLastModified: git Last Modified
+dateLastModified: Last Modified
 ---
 
 # Page header
 
-The date is {{ page.date }}
+The git date is {{ page.dateGitLastModified }}
+The last mod date is {{ page.dateLastModified }}
