@@ -1,0 +1,24 @@
+{
+  "name": "11ty-git-last-updated-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijlind/11ty-git-last-updated-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijlind/11ty-git-last-updated-test/issues"
+  },
+  "homepage": "https://github.com/ijlind/11ty-git-last-updated-test#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
